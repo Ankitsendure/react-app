@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color:white; /* Example background color */
+    color: #fff; /* Example text color */
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    
+    
+  }
+  
+  .nav-links li {
+    margin-right: 30px; /* Adjust spacing between list items */
+    
+  }
+  
+  .nav-links li:last-child {
+    margin-right: 0; /* Remove margin for the last list item */
+    
+  }
+  
+  .get-started-btn {
+    
+    padding: 8px 16px; /* Adjust button padding */
+    background-color: #190aec; /* Example button color */
+    color: #fff; /* Example button text color */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .title{
+    color: black;
+  }
+  
